@@ -17,9 +17,10 @@ organizations:
 bio: M'apassiona el cos humà i els processos pel que passa
 
 # Interests to show in About widget
-interessos:
+interests:
 - Recuperació física
 - Sol pelvià
+
 
 # Education to show in About widget
 education:
