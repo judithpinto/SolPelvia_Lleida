@@ -13,7 +13,7 @@ main:
   - name: Formació
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Serveis
     url: '#talks'
     weight: 40
   - name: Publications
