@@ -10,8 +10,8 @@ role: Fisioterapeuta especialitzada en sòl pelvià
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Universitat Rovira i Virgili
-  url: https://www.stanford.edu/
+- name: Sòl Pelvià Lleida
+  url: https://www.solpelvialleida.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: M'apassiona el cos humà i els processos pel que passa
