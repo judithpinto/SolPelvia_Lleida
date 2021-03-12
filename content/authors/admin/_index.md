@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Isaura Moyà
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Fisioterapeuta especialitzada en sòl pelvià
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Universitat Rovira i Virgili
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: M'apassiona el cos humà i els processos pel que passa
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+interessos:
+- Recuperació física
+- Sol pelvià
 
 # Education to show in About widget
 education:
@@ -70,8 +69,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+La Isaura és la persona darrera el projecte de Sòl Pelvià Lleida des de xxx anys, he reconvertit la meva passió amb la dslf adel sol peviàe .adñsfkjañsf
+asldñkfjasdf
+asdfasdfas
+fd
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
