@@ -43,15 +43,15 @@ contact_links:
     link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
-    name: Skype Me
+    name: Skype
     link: 'skype:echo123?call'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
     link: 'https://keybase.io/'
-  - icon: comments
+  - icon: whatsapp
     icon_pack: fas
-    name: Discuss on Forum
+    name: Parlem?
     link: 'https://discourse.gohugo.io'
 
 # Site header
