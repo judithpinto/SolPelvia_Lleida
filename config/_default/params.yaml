@@ -14,8 +14,8 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: 'Sòl Pelvià Lleida'
+description: 'Fisioterapeuta especialitzada en sòl pelvià'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -23,7 +23,7 @@ twitter: ''
 email: info@solpelvialleida.com
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
+  street: Carrer Riu Ebre, 15
   city: Lleida
   region: Catalunya
   postcode: '25001'
@@ -41,18 +41,10 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
   - icon: whatsapp
     icon_pack: fas
     name: Parlem?
-    link: 'https://discourse.gohugo.io'
+    link: '666666666'
 
 # Site header
 
@@ -60,7 +52,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -69,7 +61,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: es-cat
 
 # Site features
 
@@ -138,7 +130,7 @@ search:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: false
+    show_logo: true
 map:
   provider: ''
   api_key: ''
