@@ -38,9 +38,4 @@ email: info@solpelvialleida.com
 superuser: true
 highlight_name: false
 ---
-
-La Isaura és la persona darrera el projecte de Sòl Pelvià Lleida des de xxx anys, he reconvertit la meva passió amb la dslf adel sol peviàe .adñsfkjañsf
-asldñkfjasdf
-asdfasdfas
-fd
-
+La Isaura és la persona darrera el projecte de Sòl Pelvià Lleida des de xxx anys, he reconvertit la meva passió amb la dslf adel sol peviàe
