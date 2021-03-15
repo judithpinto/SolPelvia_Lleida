@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: rose
+theme: minimal
 day_night: true
 font: ''
 font_size: L
@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: info@solpelvialleida.com
-phone: 888 888 88 88
+phone: +34 624272262
 address:
   street: Carrer Riu Ebre, 15
   city: Lleida
@@ -40,11 +40,11 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/@FrancinoMoya'
   - icon: whatsapp
     icon_pack: fas
     name: Parlem?
-    link: '666666666'
+    link: '624272262'
 
 # Site header
 
@@ -130,7 +130,7 @@ search:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: true
+    show_logo: false
 map:
   provider: ''
   api_key: ''
@@ -146,4 +146,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false
