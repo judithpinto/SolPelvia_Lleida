@@ -1,10 +1,13 @@
 ---
 title: Isaura Moyà
 role: Fisioterapeuta especialitzada en sòl pelvià
-bio: M'apassiona el cos humà i els processos pel que passa
+bio: M'apassiona el cos humà i els processos pel que passa. Recupera el control del teu cos!
 interests:
   - Recuperació física
   - Sol pelvià
+  - Fisioteràpia
+  - Control del cos
+  - Preparació al part, postpart
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,17 +28,23 @@ organizations:
     url: https://www.solpelvialleida.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Diplomada en Fisioteràpia
+      institution: Universitat Rovira i Virgili
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postgraduada en teràpies naturals. Prevenció de la malaltia, millora de la salut i del benestar personal
+      institution: Universitat de Lleida
+      year: 2016
 email: info@solpelvialleida.com
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
-La Isaura és la persona darrera el projecte de Sòl Pelvià Lleida des de xxx anys, he reconvertit la meva passió amb la dslf adel sol peviàe
+Sóc la Isaura Moyà, la persona al capdavant del centre Sòl Pelvià de Lleida. Sóc fisoterapeuta des del 2009, i des del 2016 especialitzada en la fisioteràpia del sòl pelvià. 
+
+Aquest món sempre m’havia cridat l’atenció i al 2016 va sorgir l’oportunitat de poder endinsar-me en aquesta branca de la fisioteràpia tant fascinant, i que cada dia m’apassiona mes, el meu objectiu és ajudar als pacients en totes les patologies relacionades amb el sòl pelvià.
+
+Em considero una persona natural i senzilla a l’hora d’explicar un tema tant tabú com aquest, que esperem que poc a poc entre tots deixi de ser-ho.
+
+Després d’uns anys fantàstics treballant com a autònoma en diferents centres on he
+après moltes coses i he conegut grans professionals i he fet molt bons amics, he
+decidit emprendre el meu camí i obrir el meu propi centre especialitzat en les
+disfuncions del sòl pelvià tant femenines com masculines.
