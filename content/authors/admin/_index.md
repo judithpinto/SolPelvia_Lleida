@@ -14,15 +14,13 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Judith_Pinto_
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  - display:
-      header: false
-    link: WhatsApp
-    icon_pack: fab
+  - icon_pack: fab
     icon: whatsapp
+    link: /#contact
 organizations:
   - name: Sòl Pelvià Lleida
     url: https://www.solpelvialleida.com/
