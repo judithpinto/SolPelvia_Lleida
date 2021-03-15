@@ -11,7 +11,7 @@ main:
     url: '#posts'
     weight: 20
   - name: Formació
-    url: '#projects'
+    url: '#accomplishments'
     weight: 30
   - name: Serveis
     url: '#talks'
