@@ -16,7 +16,7 @@ main:
   - name: Serveis
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Tractaments
     url: '#featured'
     weight: 50
   - name: Contacte
