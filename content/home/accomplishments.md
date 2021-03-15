@@ -80,6 +80,6 @@ weight: 50
 title: Formació
 subtitle: null
 design:
-  background:
-  color: "#a25aa7"
+  background: 'blue'
+  
 ---
