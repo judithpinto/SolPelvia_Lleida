@@ -23,7 +23,6 @@ headless: true
 weight: 50
 title: Formació
 subtitle: null
-design:
-  background: 'blue'
+
   
 ---
