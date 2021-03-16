@@ -20,6 +20,5 @@ content:
   order: desc
 design:
   view: 2
-  background:
-    color: "#c04cc4"
+
 ---
