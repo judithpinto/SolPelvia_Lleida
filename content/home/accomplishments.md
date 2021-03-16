@@ -26,14 +26,6 @@ item:
     organization_url: https://www.datacamp.com
     title: Fisioteràpia en obstetrícia i postpart
     url: ""
-  - certificate_url: https://www.datacamp.com
-    date_end: ""
-    date_start: 2017
-    description: ""
-    organization: RAPbarcelona
-    organization_url: https://www.datacamp.com
-    title: Fisioteràpia en obstetrícia i postpart
-    url: ""
    - certificate_url: https://www.datacamp.com
     date_end: ""
     date_start: 2017
