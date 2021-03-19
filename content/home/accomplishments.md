@@ -1,6 +1,8 @@
 ---
 widget: accomplishments
 date_format: Jan 2006
+ gradient_start = "orchid"
+  gradient_end = "orchid"
 item:
   - certificate_url: https://www.coursera.org
     date_end: ""
